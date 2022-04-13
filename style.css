@@ -1,0 +1,32 @@
+body {
+    background-image: url(images/turtle.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 35%; 
+}
+
+
+#text {
+font-family: Gabriola;
+font-size: 55px;
+font-display: bold;
+text-align: center;
+margin-top: 25px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+#author {
+font-family: Gabriola;
+font-size: 35px;
+font-display: bold;
+margin-left: 1000px;
+}
+
+#new-quote {
+font-family: Gabriola;
+font-size: 25px;
+font-display: bold;
+margin-left: 800px;
+}
